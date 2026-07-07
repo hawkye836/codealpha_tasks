@@ -21,8 +21,7 @@ On Kali Linux, it is recommended to install `scapy` via the system package manag
    ```bash
    git clone [https://hawkye836/python-network-sniffer.git](https://github.com/YOUR_USERNAME/python-network-sniffer.git)
    cd python-network-sniffer
-
-'''console
+```console
 Starting network sniffer... Press Ctrl+C to stop.
 [UDP] 192.168.1.1:53 --> 192.168.1.5:34112
 -----------------------------------------------------------------
